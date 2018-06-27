@@ -1,1 +1,1 @@
-# IEX
+# Consumes IEX data
